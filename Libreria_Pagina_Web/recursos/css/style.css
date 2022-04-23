@@ -29,7 +29,7 @@
    
     position : absolute ;
 	top : 50px;
-	left : 800px;
+	left : 750px;
 	height :100px;
 	width : 300px ;
 }
@@ -111,7 +111,7 @@ width: 100px;
 .borde{
 	border: 3px black solid;
 	margin-top: 20px;
-	height: 1000px;
+	height: 1950px;
 	background-color:white ;
 	
 	
@@ -163,25 +163,38 @@ hr{
 	font-size: 20px;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.barra{
-	margin-left: 60px;
-	margin-right: 60px;
+
+.barradenavegacion{
+	position: absolute;
+	top:175px
 }
 .textborder{
-	text-align: center;
-	border: 3px black solid;
-	margin-top: 60px;
+	
+	border: 5px black solid;
 	font-size: 40px;
 	height: 80px;
+	width: 130%;
+	text-align: center;
 	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	padding: 5px;
+	
 }
 .bordersec{
-	margin-left: 60px;
-	margin-right: 60px;
+	
+	position: absolute;
+	top: 680px;
+	left: 240px;
+	
 	
 	
 	
 }
+.lineafooter{
+
+  margin-top: 60px;
+  margin-right:100px ;
+}
+
+
 
 
